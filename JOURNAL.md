@@ -13,6 +13,14 @@ Total time spent: 1 hour
 Just did some detailing work, not much else
 
 <a href="https://lapse.hackclub.com/timelapse/KE_e_KAXtqL5">Second timelapse</a>
-<p></p>
 
 Total time spent: 45 mins
+
+# May 14: Made some more progress on the details
+
+Did some more detailing and started working on the runes for the blade, which is probably gonna be the most time-consuming part of the project
+
+<a href="https://lapse.hackclub.com/timelapse/_JIRaxJkyl0u
+">Third timelapse</a>
+
+Total time spent: 1 hr 17 mins

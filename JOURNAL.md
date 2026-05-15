@@ -7,3 +7,12 @@ Today I designed the base model, or at least started desiging it. Made some dece
 <p></p>
 
 Total time spent: 1 hour
+
+# May 13: Made some progress on the details
+
+Just did some detailing work, not much else
+
+<a href="https://lapse.hackclub.com/timelapse/KE_e_KAXtqL5">Second timelapse</a>
+<p></p>
+
+Total time spent: 45 mins

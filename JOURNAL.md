@@ -24,3 +24,14 @@ Did some more detailing and started working on the runes for the blade, which is
 ">Third timelapse</a>
 
 Total time spent: 1 hr 17 mins
+
+# May 15: Finished the project
+
+Finished all the detailing and added threads to the handle parts, so now it is ready to be printed
+Also I made 2 lapses today
+
+<a href="https://lapse.hackclub.com/timelapse/aQuMqaOTm32K
+">Fourth timelapse</a>
+<a href="https://lapse.hackclub.com/timelapse/v8R_x1GF6v_5
+">Fifth and Final timelapse</a>
+
